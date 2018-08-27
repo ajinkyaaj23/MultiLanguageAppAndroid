@@ -1,0 +1,2 @@
+# MultiLanguageAppAndroid
+English-Hindi supported
